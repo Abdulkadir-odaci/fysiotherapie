@@ -19,6 +19,7 @@ if 'video_settings' not in st.session_state:
 if 'client_progress' not in st.session_state:
     st.session_state.client_progress = {}
 
+
 # Set the hardcoded credentials
 VALID_USERNAME = "abdlkdrdci@gmail.com"
 VALID_PASSWORD = "12345"
